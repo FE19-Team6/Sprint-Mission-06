@@ -1,8 +1,9 @@
 # 🚀 Sprint Mission 06
 
-> **FE19-Team6**의 스프린트 06 프로젝트입니다.  
+> **FE19-Team6**의 스프린트 06 프로젝트입니다.
 > 각자 개인 브랜치에서 기능을 구현하고, 브랜치별로 작업을 관리합니다.
-> main에는 직접 머지하지 않습니다. 
+> main에는 직접 머지하지 않습니다.
+> 커밋과 PR에 이슈 번호 필수 연동합니다.
 
 ---
 
@@ -64,11 +65,12 @@
 
 ## 🎨 디자인 시안
 
-- **Figma:** [스프린트 미션 디자인 바로가기](https://www.figma.com/design/IVkRlYWHY74QlgmxqA99Ym/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EB%AF%B8%EC%85%98?node-id=348-10201&p=f&t=NFrzysNFP2mgTTV7-0)
+- **Figma:** [[스프린트 미션 디자인 바로가기](https://www.figma.com/design/IVkRlYWHY74QlgmxqA99Ym/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EB%AF%B8%EC%85%98?node-id=348-10201&p=f&t=NFrzysNFP2mgTTV7-0)](https://www.figma.com/design/IVkRlYWHY74QlgmxqA99Ym/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EB%AF%B8%EC%85%98?node-id=2222-3101&p=f&t=lkwSoevhcfKGdi82-0)
 
 ---
 
 ## 📖 참고
 
-> 이번 스프린트는 마일스톤/이슈로 진행합니다. 데드라인 설정과 작업 시간 산정도 테스트합니다.
+> 이번 스프린트는 마일스톤/이슈로 진행합니다.
+> 데드라인 설정과 작업 시간 산정도 테스트합니다.
 > 브랜치별로 기능을 완성하고 피드백 중심으로 리뷰하는 형태입니다.
